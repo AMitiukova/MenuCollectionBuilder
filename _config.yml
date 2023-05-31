@@ -22,7 +22,7 @@ source-code: https://amitiukova.github.io/MenuCollectionBuilder/
 # title of site appears in banner
 title: Menu collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: in Tsarskoe Selo museum prints department
+tagline: in Tsarskoe Selo museum prints collection
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "collection of MENU cards of different occasions"
@@ -40,7 +40,7 @@ metadata: aleksandra-csv
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Tsarskoe Selo Museum and Heritage site"
+organization-name: "Museum and Heritage site Tsarskoe Selo"
 organization-link: https://tzar.ru
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
